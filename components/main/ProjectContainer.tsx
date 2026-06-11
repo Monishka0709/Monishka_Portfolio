@@ -8,8 +8,8 @@ const cards = [
   { id: 1, url:"https://monishka.netlify.app", src:"/Portfolio.png", title:"Modern Next.js Portfolio", description:"This is this portfolio website created using nextjs, threejs and tailwind."},
   { id: 2, url:"https://chatblinkclient.vercel.app", src:"/Chatblink.png", title:"Chat Application", description:"Real time Chat application created using MERN stack along with material ui." },
   { id: 3, url:"https://authentication1-mern.netlify.app", src:"/MernAuth.png", title: "Demo Authentication", description:"This is a authentication app created using MERN Stack." },
-  { id: 4, url:"https://quleepassignment-monishka.netlify.app", src:"/Quleep.png", title: "Product Dashboard", description:"This is a product dashboard created using React and Tailwind CSS." },
-  // { id: 5, url:"/NextWebsite.png", src:"/CardImage.png", title: "Card 5", description:" sfsa" },
+  { id: 4, url:"https://quleepassignment-monishka.netlify.app", src:"/Quleep.png", title: "Product Dashboard", description:"This is a product dashboard created using React and Tailwind CSS along with threejs." },
+  { id: 5, url:"https://quleepassignment-monishka.netlify.app", src:"/AITracker.png", title: "AI Habit Tracker", description:"This is an AI habit tracker created using Gemini-3.5-flash" },
 ];
 
 export default function Projects() {
