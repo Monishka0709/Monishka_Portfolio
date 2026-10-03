@@ -3,6 +3,7 @@ import Qualifications from "@/components/main/Qualifications";
 import Skills from "@/components/main/Skills";
 import Projects from "@/components/main/Projects";
 import Image from "next/image";
+import Encryption from "@/components/main/Encryption";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
         <Hero />
         <Qualifications />
         <Skills />
+        {/* <Encryption/> */}
         <Projects />
       </div>
     </main>

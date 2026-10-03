@@ -66,8 +66,8 @@ const HeroContent = () => {
         </motion.p>
         <div className="flex justify-center sm:justify-start">
           <motion.a
-            href="/Monishka_web_developer.pdf"
-            download="Monishka_web_developer.pdf"
+            href="/MonishkaResumeAug.pdf"
+            download="MonishkaResumeAug.pdf"
             variants={slideInFromLeft(1)}
             className="py-2 px-4 button-primary text-center text-white cursor-pointer rounded-lg w-fit"
           >

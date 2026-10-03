@@ -36,7 +36,7 @@ const Navbar = () => {
 
         {/* Download Button */}
         <div className="flex flex-row gap-3 sm:gap-5">
-          <a href="/Monishka_web_developer.pdf" download="Monishka_web_developer.pdf">
+          <a href="/Monishka_web_developer.pdf" download="MonishkaResumeAug.pdf">
             <div className="flex items-center justify-center bg-[#7042f8] border border-[#7042f861] w-8 h-8 sm:w-10 sm:h-10 rounded-full hover:bg-[#7042f861] cursor-pointer transition ease-in duration-200">
               <Image
                 src="/download.png"
